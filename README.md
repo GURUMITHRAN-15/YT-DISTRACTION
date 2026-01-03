@@ -55,6 +55,7 @@ YT-DISTRACTION is a Chrome extension designed to help you focus on educational c
 
   Open a Pull Request and describe your changes.
 
-  ![Before](assets/screenshot-1.png)
+  ![Before](assets/screenshot-3.png)
   ![After](assets/screenshot-2.png)
+  ![After](assets/screenshot-1.png)
 
